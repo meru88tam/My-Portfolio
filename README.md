@@ -23,5 +23,5 @@ git clone https://github.com/meru88tam/Portfolio.git
 - See the Portfolio!
 
 <h3> Screenshots </h3>
-<img src = "https://github.com/Nebiyu-0791/Portfolio/blob/main/portfolio.png"/>
+<img src = "https://github.com/meru88tam/My-Portfolio/blob/main/portfolio.png"/>
 <br># Portfolio
